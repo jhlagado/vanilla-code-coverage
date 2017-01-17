@@ -1,3 +1,3 @@
-module.exports = function (identity) {
-  return identity ? identity : null;
+module.exports = function (identity1) {
+  return identity1 ? identity1 : null;
 };
